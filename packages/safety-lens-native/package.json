@@ -1,6 +1,6 @@
 {
   "name": "safety-lens-native",
-  "version": "1.6.0",
+  "version": "1.5.1",
   "description": "Type-safe, functional lens library - this package provides lenses for native Javascript data structures",
   "author": "Jesse Hallett <jesse@sitr.us>",
   "license": "Apache-2.0",
@@ -45,7 +45,7 @@
   ],
   "dependencies": {
     "flow-static-land": "^0.2.7",
-    "safety-lens": "^1.5.0"
+    "safety-lens": "^1.5.1"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
@@ -53,6 +53,5 @@
     "flow-bin": "^0.48.0",
     "in-publish": "^2.0.0",
     "mocha": "^3.4.2"
-  },
-  "peerDependencies": {}
+  }
 }
